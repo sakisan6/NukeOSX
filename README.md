@@ -93,7 +93,7 @@ For consistent results, **re-run the script after every macOS system update**.
 ## Usage
 
 Clone the repository and run the script:
-- gh repo clone sakisan1/NukeOSX
+- gh repo clone sakisan6/NukeOSX
 - cd NukeOSX
 - sudo ./NukeOSX.sh
 
